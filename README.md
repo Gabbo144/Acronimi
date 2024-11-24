@@ -18,6 +18,8 @@ https://www.notion.so/romanofranceso/Gioco-acronimi-12ada23e29518098abd6c8438e67
 - Progettare e applicare UI
 - NOMEEEEEEEEEEEEEEEEEEEEEEEEE
 - Classifica finale e ripetizione round
+- Voti singoli e non due a due
+- Updatare immagini README
 
 
 ## Progressi
